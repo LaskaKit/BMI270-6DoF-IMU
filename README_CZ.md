@@ -21,7 +21,7 @@ Měření rotace (gyroskop): ±125°/s až ±2000°/s</br>
 Spotřeba: Ultra-low power (např. 850 µA v režimu plného měření)</br>
 Funkce: Detekce gest, aktivita/inaktivita, poklepání, přetížení, počítání kroků</br>
 Rozměry modulu: přibližně 12 × 10 mm</br>
-Kompatibilita: Arduino (3.3v), ESP32, STM32, Raspberry Pi a další</br>
+Kompatibilita: [Arduino (3.3v)](https://www.laskakit.cz/vyhledavani/?string=arduino), [ESP32](https://www.laskakit.cz/laskakit-esp32-devkit/?variantId=11481), [STM32](https://www.laskakit.cz/vyhledavani/?string=stm32), [Raspberry Pi](https://www.laskakit.cz/vyhledavani/?string=raspberry+pi+4b) a další</br>
 Pull-up SDA a SCL rezistory ve výchozím nastavení: připojeny na napájení VCC přes 4.7k
 </br>
 
